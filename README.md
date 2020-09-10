@@ -7,10 +7,10 @@ Para clonar este repositorio en su computadora:
 
 ```shell
 # 0. Posiciónese en el directorio en el que va a residir el repositorio clonado.
-# Por ejemplo, en el directorio del usuario.
+# Por ejemplo, en su directorio de usuario.
 cd C:\Users\mfvargas
 
-# 1. Especifique el nombre y de la dirección de correo de su usuario en GitHub.
+# 1. Especifique el nombre y la dirección de correo de su usuario en GitHub.
 # Debe modificar la dirección de correo y el nombre del usuario con sus propios datos.
 git config --global user.email "usuario@correo.com"
 git config --global user.name "Nombre de usuario"
