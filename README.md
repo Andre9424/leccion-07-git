@@ -1,4 +1,4 @@
-# Python - manejo de archivos
+# El sistema Git para control de versiones y manejo de archivos en Python
 
 ## Clonación de este repositorio
 Para clonar este repositorio en su computadora:
