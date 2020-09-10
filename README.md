@@ -24,7 +24,7 @@ git clone https://github.com/usuario/leccion-07-python-archivos.git
 # 3. Cambio al directorio del repositorio recién clonado.
 cd leccion-07-python-archivos
 
-# 4. En este punto, realice algunas modificaciones en el archivo README.md del repositorio recién clonado (ej. agregue una nueva línea).
+# 4. En este punto, realice algunas modificaciones en el archivo README.md del repositorio recién clonado (ej. agregue su nombre en una nueva línea).
 
 # 5. Revisión de los archivos con modificaciones.
 git status
@@ -34,7 +34,7 @@ git status
 git add .
 
 # 7. Almacenamiento (commit) del conjunto de archivos modificados, junto con un mensaje explicativo.
-git commit -m "Agregar contenido"
+git commit -m "Agregar nombre del modificador"
 
 # 8. "Subida" (push) de las modificaciones al repositorio remoto.
 git push
