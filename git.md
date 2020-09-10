@@ -40,7 +40,8 @@ Desde el punto de vista de un usuario de Git (ej. un programador), Git se utiliz
 Las operaciones _push_ y _pull_ se ilustran en la figura 1:
 
 ![Figura 1: Operaciones _push_ y _pull_. Imagen de Melinda Higgins (https://www.coursera.org/learn/reproducible-templates-analysis/lecture/NGbQv/git-and-github-part-1)](img/push-pull.png)
-Figura 1: Operaciones _push_ y _pull_. Imagen de Melinda Higgins (https://www.coursera.org/learn/reproducible-templates-analysis/lecture/NGbQv/git-and-github-part-1)
+
+Figura 1: Operaciones _push_ y _pull_. Imagen de Melinda Higgins ([https://www.coursera.org/learn/reproducible-templates-analysis/lecture/NGbQv/git-and-github-part-1](https://www.coursera.org/learn/reproducible-templates-analysis/lecture/NGbQv/git-and-github-part-1))
 
 Antes de un _push_, el usuario debe seleccionar los archivos que desea subir mediante el comando [git add](https://git-scm.com/docs/git-add), el cual pasa los archivos a un "área de espera" (_staging area_). Luego debe usarse el comando [git commit](https://git-scm.com/docs/git-commit) para "guardar" los cambios en el área de espera.
 
