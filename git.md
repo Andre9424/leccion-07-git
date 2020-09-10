@@ -5,16 +5,16 @@
 * Referencia de los comandos de Git: [Git commands](https://git-scm.com/docs/git#_git_commands).
 
 * Tutoriales sobre Git: [The Best Git Tutorials](https://www.freecodecamp.org/news/best-git-tutorial/).
-\
+
 * Tutorial sobre comandos de Git:
   - [Git Commands Tutorial - Part 1](https://kolosek.com/git-commands-tutorial-part1/).
   - [Git Commands Tutorial - Part 2](https://kolosek.com/git-commands-tutorial-part2/).  
-\
+
 * Curso sobre investigación reproducible - Git y GitHub: 
   - [Reproducible Templates for Analysis and Dissemination - Git and Github Part 1](https://www.coursera.org/learn/reproducible-templates-analysis/lecture/Cg6k7/git-and-github-part-1).
   - [Reproducible Templates for Analysis and Dissemination - Git and Github Part 2](https://www.coursera.org/learn/reproducible-templates-analysis/lecture/Cg6k7/git-and-github-part-2).
   - [Reproducible Templates for Analysis and Dissemination - Git and Github Part 3](https://www.coursera.org/learn/reproducible-templates-analysis/lecture/Cg6k7/git-and-github-part-3).  
-\
+
 * Ayuda para el uso de la línea de comandos:
   - (macOS, Linux) [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/).
   - (Windows) [How to use the Windows command line (DOS)](https://www.computerhope.com/issues/chusedos.htm).
