@@ -1,19 +1,19 @@
 # El sistema Git para control de versiones
 
 ## Recursos de interés
-* Sitio oficial de Git: [Git](https://git-scm.com/).
-* Referencia de los comandos de Git: [Git commands](https://git-scm.com/docs/git#_git_commands).
+* Sitio oficial de Git: [Git](https://git-scm.com/)
+* Referencia de los comandos de Git: [Git commands](https://git-scm.com/docs/git#_git_commands)
 
-* Tutoriales sobre Git: [The Best Git Tutorials](https://www.freecodecamp.org/news/best-git-tutorial/).
+* Tutoriales sobre Git: [The Best Git Tutorials](https://www.freecodecamp.org/news/best-git-tutorial/)
 
 * Tutorial sobre comandos de Git:
-    - [Git Commands Tutorial - Part 1](https://kolosek.com/git-commands-tutorial-part1/).
-    - [Git Commands Tutorial - Part 2](https://kolosek.com/git-commands-tutorial-part2/).  
+    - [Git Commands Tutorial - Part 1](https://kolosek.com/git-commands-tutorial-part1/)
+    - [Git Commands Tutorial - Part 2](https://kolosek.com/git-commands-tutorial-part2/)  
 
 * Curso sobre investigación reproducible - Git y GitHub: 
-    - [Reproducible Templates for Analysis and Dissemination - Git and Github Part 1](https://www.coursera.org/learn/reproducible-templates-analysis/lecture/Cg6k7/git-and-github-part-1).
-    - [Reproducible Templates for Analysis and Dissemination - Git and Github Part 2](https://www.coursera.org/learn/reproducible-templates-analysis/lecture/Cg6k7/git-and-github-part-2).
-    - [Reproducible Templates for Analysis and Dissemination - Git and Github Part 3](https://www.coursera.org/learn/reproducible-templates-analysis/lecture/Cg6k7/git-and-github-part-3).  
+    - [Reproducible Templates for Analysis and Dissemination - Git and Github Part 1](https://www.coursera.org/learn/reproducible-templates-analysis/lecture/Cg6k7/git-and-github-part-1)
+    - [Reproducible Templates for Analysis and Dissemination - Git and Github Part 2](https://www.coursera.org/learn/reproducible-templates-analysis/lecture/Cg6k7/git-and-github-part-2)
+    - [Reproducible Templates for Analysis and Dissemination - Git and Github Part 3](https://www.coursera.org/learn/reproducible-templates-analysis/lecture/Cg6k7/git-and-github-part-3)  
 
 * Ayuda para el uso de la línea de comandos:
     - Referencia para la línea de comandos: [SS64 Command line reference](https://ss64.com/)
