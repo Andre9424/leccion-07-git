@@ -10,5 +10,5 @@ Para clonar este repositorio en su computadora:
 ```
 
 ## Temas de la lección
-- [El sistema Git para control de versiones](https://tpb708-programacionsig-2020.github.io/leccion-07-git-python-archivos/git.md)
+- [El sistema Git para control de versiones](https://tpb708-programacionsig-2020.github.io/leccion-07-git-python-archivos/git)
 - [Manejo de archivos en Python]()
