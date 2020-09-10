@@ -1,2 +1,5 @@
-# leccion-07-python-archivos
-Manejo de archivos en Python
+# Python - manejo de archivos
+
+El código fuente de este repositorio está disponible en []().
+
+- [Manejo de archivos]()
