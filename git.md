@@ -7,17 +7,17 @@
 * Tutoriales sobre Git: [The Best Git Tutorials](https://www.freecodecamp.org/news/best-git-tutorial/).
 
 * Tutorial sobre comandos de Git:
-  - [Git Commands Tutorial - Part 1](https://kolosek.com/git-commands-tutorial-part1/).
-  - [Git Commands Tutorial - Part 2](https://kolosek.com/git-commands-tutorial-part2/).  
+    - [Git Commands Tutorial - Part 1](https://kolosek.com/git-commands-tutorial-part1/).
+    - [Git Commands Tutorial - Part 2](https://kolosek.com/git-commands-tutorial-part2/).  
 
 * Curso sobre investigación reproducible - Git y GitHub: 
-  - [Reproducible Templates for Analysis and Dissemination - Git and Github Part 1](https://www.coursera.org/learn/reproducible-templates-analysis/lecture/Cg6k7/git-and-github-part-1).
-  - [Reproducible Templates for Analysis and Dissemination - Git and Github Part 2](https://www.coursera.org/learn/reproducible-templates-analysis/lecture/Cg6k7/git-and-github-part-2).
-  - [Reproducible Templates for Analysis and Dissemination - Git and Github Part 3](https://www.coursera.org/learn/reproducible-templates-analysis/lecture/Cg6k7/git-and-github-part-3).  
+    - [Reproducible Templates for Analysis and Dissemination - Git and Github Part 1](https://www.coursera.org/learn/reproducible-templates-analysis/lecture/Cg6k7/git-and-github-part-1).
+    - [Reproducible Templates for Analysis and Dissemination - Git and Github Part 2](https://www.coursera.org/learn/reproducible-templates-analysis/lecture/Cg6k7/git-and-github-part-2).
+    - [Reproducible Templates for Analysis and Dissemination - Git and Github Part 3](https://www.coursera.org/learn/reproducible-templates-analysis/lecture/Cg6k7/git-and-github-part-3).  
 
 * Ayuda para el uso de la línea de comandos:
-  - (macOS, Linux) [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/).
-  - (Windows) [How to use the Windows command line (DOS)](https://www.computerhope.com/issues/chusedos.htm).
+    - Referencia para la línea de comandos: [SS64 Command line reference](https://ss64.com/)
+    - Algunos comandos básicos de Windows: [Command Prompt: 11 basic commands you should know (cd, dir, mkdir, etc.) - Digital Citizen](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
 
 ## Características generales de Git
 [Git](https://git-scm.com/) es un sistema de [control de versiones](https://en.wikipedia.org/wiki/Version_control) diseñado para rastrear cambios en el código fuente durante el proceso de desarrollo de software. Sin embargo, puede ser utilizado para llevar el control de los cambios en cualquier conjunto de archivos (ej. [documentación](https://guides.github.com/features/wikis/), [música](https://techcrunch.com/2013/10/09/splice-music/)). Un sistema de control de versiones proporciona, entre otras ventajas:
