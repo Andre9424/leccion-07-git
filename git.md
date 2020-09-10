@@ -49,9 +49,13 @@ La relación entre estas operaciones de Git, se ilustra en la figura 2:
 
 ![Figura 2: Operaciones de Git. Imagen de Steven Klavins (https://medium.com/@stevenklavins94/version-control-part-4-c9387cf5b33e)](img/git-push-pull.png)
 
+Figura 2: Operaciones de Git. Imagen de Steven Klavins ([https://medium.com/@stevenklavins94/version-control-part-4-c9387cf5b33e](https://medium.com/@stevenklavins94/version-control-part-4-c9387cf5b33e))
+
 En la figura 3 se muestra la función de algunos de los comandos de Git mediante una comparación con el procesamiento de una compra en línea:
 
 ![Figura 3: Operaciones de Git y compras en línea. Imagen de Melinda Higgins (https://www.coursera.org/learn/reproducible-templates-analysis/lecture/NGbQv/git-and-github-part-2)](img/git-stage-commit-push.png)
+
+Figura 3: Operaciones de Git y compras en línea. Imagen de Melinda Higgins ([https://www.coursera.org/learn/reproducible-templates-analysis/lecture/NGbQv/git-and-github-part-2](https://www.coursera.org/learn/reproducible-templates-analysis/lecture/NGbQv/git-and-github-part-2))
 
 Otros comandos de Git de uso frecuente son:
 
@@ -63,41 +67,41 @@ Otros comandos de Git de uso frecuente son:
 ### Clonación de un repositorio remoto y "push" de los cambios efectuados localmente
 En este ejemplo de flujo de trabajo, se clonará un repositorio remoto en la computadora local, se realizarán cambios en uno de sus archivos y se "subirán" de vuelta al repositorio remoto mediante la operación _push_ de Git.
 
-Para seguir este ejemplo, bifurque (_fork_) a su cuenta en GitHub el repositorio localizado en la dirección [https://github.com/geoprocesamiento-2020i/tutorial-git-repo-ejemplo](https://github.com/geoprocesamiento-2020i/tutorial-git-repo-ejemplo). Luego, ejecute los siguiente comandos desde la terminal del sistema operativo o desde alguna herramienta que incorpore una interfaz para Git (ej. en la ventana _Terminal_ de [RStudio](https://rstudio.com/)).
+Para seguir este ejemplo, bifurque (_fork_) a su cuenta en GitHub el repositorio localizado en la dirección [https://github.com/tpb708-programacionsig-2020/tutorial-git-repo-ejemplo](https://github.com/tpb708-programacionsig-2020/tutorial-git-repo-ejemplo). Luego, ejecute los siguientes comandos desde la terminal del sistema operativo o desde alguna interfaz que incluya las herramientas de Git, como la línea de comandos (prompt) de Anaconda:
 
 ```shell
-# 0. Posicionamiento en el directorio en el que va a residir el repositorio clonado.
-# Por ejemplo, el comando "cd" (sin argumentos) se posiciona en el directorio del usuario.
-$ cd
+# 0. Posiciónese en el directorio en el que va a residir el repositorio clonado.
+# Por ejemplo, el directorio del usuario.
+cd C:\Users\mfvargas
 
-# 1. Especificación del nombre y de la dirección de correo del usuario.
-# Debe modificar la dirección de correo y el nombre del usuario con sus propios datos.
-$ git config --global user.email "usuario@correo.com"
-$ git config --global user.name "Nombre de usuario"
+# 1. Especifique del nombre y de la dirección de correo del usuario.
+# Debe modificar la dirección de correo y el nombre del usuario con sus propios datos en los siguientes comandos.
+git config --global user.email "usuario@correo.com"
+git config --global user.name "Nombre de usuario"
 # Para revisar:
-$ git config --global --list
+git config --global --list
 
-# 2. Clonación del repositorio remoto a la estación de trabajo local.
+# 2. Clone el repositorio remoto a la estación de trabajo local.
 # Debe sustituir "usuario" por su nombre de usuario en GitHub.
-$ git clone https://github.com/usuario/tutorial-git-repo-ejemplo.git
+git clone https://github.com/usuario/tutorial-git-repo-ejemplo.git
 
-# 3. Cambio al directorio del repositorio recién clonado.
-$ cd tutorial-git-repo-ejemplo
+# 3. Cámbiese al directorio del repositorio recién clonado.
+cd tutorial-git-repo-ejemplo
 
 # 4. En este punto, realice algunas modificaciones en el archivo README.md del repositorio recién clonado (ej. agregue una nueva línea).
 
-# 5. Revisión de los archivos con modificaciones.
-$ git status
+# 5. Revise los archivos que han sido modificados.
+git status
 
-# 6. Adición de los archivos modificados al "área de espera".
+# 6. Agregue los archivos modificados al "área de espera".
 # El punto (.) indica que se agregarán todos los archivos modificados.
-$ git add .
+git add .
 
-# 7. Almacenamiento (commit) del conjunto de archivos modificados, junto con un mensaje explicativo.
-$ git commit -m "Agregar línea 2"
+# 7. Almacene (commit) el conjunto de archivos modificados, junto con un mensaje explicativo.
+git commit -m "Agregar línea 2"
 
-# 8. "Subida" (push) de las modificaciones al repositorio remoto.
-$ git push
+# 8. "Suba" (push) las modificaciones al repositorio remoto.
+git push
 ```
 
 Si se realizan nuevos cambios, deben repetirse los pasos del 5 al 8.
